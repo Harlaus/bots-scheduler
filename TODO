@@ -1,6 +1,0 @@
-TODO: CertificateValidityJob (check for SSL certificate expiration date) [Contrib Bart]
-TODO: Update demos
-TODO: New job: PasswordSprayJob (password spraying attack with common dict and password derivation rules ; SSH + others ?)
-TODO: New job: CredentialStuffingJob (similar to PasswordSprayJob ; simpler, only handling an input file)
-
-FIXME: When a data file is deleted, search for jobs that use it and disable them
